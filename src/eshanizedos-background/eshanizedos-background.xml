@@ -3,8 +3,8 @@
 <wallpapers>
 <wallpaper deleted="false">
 <name>Default Background</name>
-<filename>/usr/share/backgrounds/eshanizedos-wallpaper/01.jpg</filename>
-<filename-dark>/usr/share/backgrounds/eshanizedos-wallpaper/01.jpg</filename-dark>
+<filename>/usr/share/backgrounds/eshanizedos-background/01.jpg</filename>
+<filename-dark>/usr/share/backgrounds/eshanizedos-background/01.jpg</filename-dark>
 <options>zoom</options>
 <shade_type>solid</shade_type>
 <pcolor>#ffffff</pcolor>
@@ -12,7 +12,7 @@
 </wallpaper>
 <wallpaper deleted="false">
 <name>02</name>
-<filename>/usr/share/backgrounds/eshanizedos-wallpaper/02.jpg</filename>
+<filename>/usr/share/backgrounds/eshanizedos-background/02.jpg</filename>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -20,7 +20,7 @@
 </wallpaper>
 <wallpaper deleted="false">
 <name>03</name>
-<filename>/usr/share/backgrounds/eshanizedos-wallpaper/03.jpg</filename>
+<filename>/usr/share/backgrounds/eshanizedos-background/03.jpg</filename>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -28,7 +28,7 @@
 </wallpaper>
 <wallpaper deleted="false">
 <name>Aurora Dragon</name>
-<filename>/usr/share/backgrounds/eshanizedos-wallpaper/04.jpg</filename>
+<filename>/usr/share/backgrounds/eshanizedos-background/04.jpg</filename>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -36,7 +36,7 @@
 </wallpaper>
 <wallpaper deleted="false">
 <name>Aurora</name>
-<filename>/usr/share/backgrounds/eshanizedos-wallpaper/05.jpg</filename>
+<filename>/usr/share/backgrounds/eshanizedos-background/05.jpg</filename>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
